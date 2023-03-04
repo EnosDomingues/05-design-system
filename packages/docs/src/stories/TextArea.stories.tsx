@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Box, TextArea, TextAreaProps, Text } from '@enosjr-ui/react'
+import { Box, TextArea, TextAreaProps, Text } from '@enos-ui/react'
 
 export default {
   title: 'Form/Text Area',

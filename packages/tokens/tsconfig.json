@@ -1,4 +1,4 @@
 {
-  "extends": "@enosjr-ui/ts-config/base.json",
+  "extends": "@enos-ui/ts-config/base.json",
   "include": ["src"]
 }

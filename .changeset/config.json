@@ -7,5 +7,5 @@
   "access": "public",
   "baseBranch": "main",
   "updateInternalDependencies": "patch",
-  "ignore": ["@enosjr-ui/docs"]
+  "ignore": ["@enos-ui/docs"]
 }

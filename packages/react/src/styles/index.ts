@@ -6,7 +6,7 @@ import {
   lineHeights,
   radii,
   space,
-} from '@enosjr-ui/tokens'
+} from '@enos-ui/tokens'
 
 import { createStitches, defaultThemeMap } from '@stitches/react'
 

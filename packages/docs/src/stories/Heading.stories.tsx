@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Heading, HeadingProps } from '@enosjr-ui/react'
+import { Heading, HeadingProps } from '@enos-ui/react'
 
 export default {
   title: 'Typography/Heading',

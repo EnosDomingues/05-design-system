@@ -1,4 +1,4 @@
-import { colors } from '@enosjr-ui/tokens'
+import { colors } from '@enos-ui/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

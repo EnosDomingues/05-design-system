@@ -1,0 +1,2 @@
+import{A as t}from"./index-dc086013.js";import"./index-501f0051.js";import"./iframe-679d7605.js";import"./index-75add64d.js";import"./jsx-runtime-83134aec.js";const m={title:"Data display/Avatar",component:t,args:{src:"https://github.com/EnosDomingues.png",alt:"Enos Domingues"},argTypes:{src:{control:{type:"text"}}}},n={},p={args:{src:void 0}},c=["Primary","WithFallback"];export{n as Primary,p as WithFallback,c as __namedExportsOrder,m as default};
+//# sourceMappingURL=Avatar.stories-2f833999.js.map

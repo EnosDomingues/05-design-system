@@ -87,8 +87,8 @@ export const ToastViewport = styled(Toast.Viewport, {
   position: 'fixed',
   width: 360,
   height: 82,
-  right: 0,
-  bottom: 0,
+  right: 32,
+  bottom: 32,
 
   display: 'flex',
   flexDirection: 'column',

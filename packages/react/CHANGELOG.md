@@ -1,5 +1,11 @@
 # @enos-ui/react
 
+## 3.1.1
+
+### Patch Changes
+
+- Position fix, add margin
+
 ## 3.1.0
 
 ### Minor Changes
